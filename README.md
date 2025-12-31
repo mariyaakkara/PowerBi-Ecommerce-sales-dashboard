@@ -1,2 +1,2 @@
 # PowerBi-Ecommerce-sales-dashboard
-![Dashboard Preview](Dashboard.jpg)
+![Dashboard Preview](screenshots/Dashboard.jpg)
